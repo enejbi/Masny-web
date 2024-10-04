@@ -1,0 +1,9 @@
+body{
+    display: flex;
+    background-color: bisque;
+    min-height: 200vh;
+}
+.box{
+    color: blueviolet;
+    display: block;
+}
